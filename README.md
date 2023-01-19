@@ -1,6 +1,7 @@
 # landmines
 A game in which one player moves a single piece around a chessboard. Other than the use of a chessboard, there are no similarities between this game and chess. 
 Instead the rules of the game are as follows: 
+
 • The board is 8 by 8 in size 
 • A player starts on the bottom-left square 
 • A player can move their piece up, down, left or right one square by entering U, D, L, or R respectively 
